@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    margin: 30px;
+    color: white;
+}
+
+body {
+
+    background-color: rgb(19, 37, 71);
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
